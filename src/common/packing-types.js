@@ -1,0 +1,15 @@
+export const packings = { types: {
+  none: 'None',
+  polybag: 'Polybag',
+  blister: 'Blister',
+  cartons: 'Cartons',
+  bubble: 'Bubble Wrap',
+  foam: 'Foam Inserts',
+  peanuts: 'Packing Peanuts',
+  paper_dev: 'Paper Deviders',
+  cboard_dev: 'Cardboard Dividers',
+  pillows: 'Air Pillows',
+  shrink: 'Shrink Wrap',
+  combined: 'Combined',
+  other: 'Other',
+}};

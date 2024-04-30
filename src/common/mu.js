@@ -1,0 +1,17 @@
+export const mu = {
+  pc: 'pc',
+  set: 'set',
+  doz: 'doz',
+  kg: 'kg',
+  g: 'g',
+  mg: 'mg',
+  lb: 'lb',
+  oz: 'oz',
+  m: 'm',
+  cm: 'cm',
+  mm: 'mm',
+  km: 'km',
+  in: 'in',
+  ft: 'ft',
+  mi: 'mi',
+}
