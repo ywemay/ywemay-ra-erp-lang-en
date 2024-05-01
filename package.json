@@ -1,9 +1,15 @@
 {
   "name": "ywemay-ra-erp-lang-en",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "YWEmay ERP React-Admin English translations",
   "main": "src/index.js",
+  "type": "module",
   "repository": "git@github.com:ywemay/ywemay-ra-erp-lang-en.git",
   "author": "Chibuc Dorin",
-  "license": "MIT"
+  "license": "MIT",
+  "paths": {
+    "@src/*": [
+      "src/*"
+    ]
+  }
 }

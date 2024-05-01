@@ -1,4 +1,4 @@
-export const address = {
+export default {
   addresses: 'Addresses',
   country: 'Country',
   zip: 'ZIP',
